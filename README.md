@@ -35,6 +35,4 @@ meteor deploy <select-a-subdomain>.meteorapp.com --free --mongo
 
 ## Coming next
 
-- Use Meteor publications and subscriptions to present real-time data
-- Use Meteor methods to insert / update data
 - Use Meteor accounts to add sign in / sign up 
