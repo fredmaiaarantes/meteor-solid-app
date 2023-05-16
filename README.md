@@ -11,6 +11,7 @@ The main goal is to make development as quick and efficient as possible. To achi
 -   [Meteor Cloud ](https://meteor.com/cloud)- Cloud provider for deploying, hosting and scaling Meteor apps
 
 Tutorial Part 1: https://dev.to/fredmaiaarantes/meteorjs-with-vite-solid-and-tailwind-css-5d2o
+
 Demo App on Galaxy: https://meteorsolidapp.meteorapp.com/
 
 Author: [@fredmaiaarantes](https://twitter.com/fredmaiaarantes)
