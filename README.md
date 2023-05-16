@@ -10,7 +10,8 @@ The main goal is to make development as quick and efficient as possible. To achi
 -   [MongoDB ](https://www.mongodb.com/)- A source-available cross-platform document-oriented database
 -   [Meteor Cloud ](https://meteor.com/cloud)- Cloud provider for deploying, hosting and scaling Meteor apps
 
-Demo: https://meteorsolidapp.meteorapp.com/
+Tutorial Part 1: https://dev.to/fredmaiaarantes/meteorjs-with-vite-solid-and-tailwind-css-5d2o
+Demo App on Galaxy: https://meteorsolidapp.meteorapp.com/
 
 Author: [@fredmaiaarantes](https://twitter.com/fredmaiaarantes)
 
